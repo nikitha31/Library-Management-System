@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/Nikitha/Downloads/rs2xml.jar",
+        "/Users/Nikitha/Downloads/mysql-connector-j-8.0.31/**/*.jar"
+    ]
+}

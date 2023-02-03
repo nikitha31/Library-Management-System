@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddBorrower",
+            "request": "launch",
+            "mainClass": "AddBorrower",
+            "projectName": "LIbrary_Project_4daf2f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "LIbrary_Project_4daf2f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckInBook",
+            "request": "launch",
+            "mainClass": "CheckInBook",
+            "projectName": "LIbrary_Project_4daf2f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetFines",
+            "request": "launch",
+            "mainClass": "GetFines",
+            "projectName": "LIbrary_Project_4daf2f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch HomeFrame",
+            "request": "launch",
+            "mainClass": "HomeFrame",
+            "projectName": "LIbrary_Project_4daf2f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search_Books",
+            "request": "launch",
+            "mainClass": "Search_Books",
+            "projectName": "LIbrary_Project_4daf2f6d"
+        }
+    ]
+}
